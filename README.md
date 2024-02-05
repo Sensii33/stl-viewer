@@ -1,5 +1,4 @@
-# Basic STLLoader
-
+# Basic STL Viewer
 Simple view page for STL with [THREE.js](https://threejs.org). All packages are loaded throuth cdn.
 
 You can view it in action [here](https://sensii33-stlviewer.netlify.app).
